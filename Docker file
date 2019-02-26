@@ -1,2 +1,2 @@
-From busybox.latest
+From busybox:latest
 CMD ["echo", "helloworld"]
